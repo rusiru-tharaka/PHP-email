@@ -27,7 +27,7 @@
     <div class="account-left"> 
 
         <div class="account-text">
-         <h1>Email Verification</h1>
+         <h1>Send Email Verification</h1>
          <p align="justify">Thanks for having interest in SoftwareONE Solutions!. </p>
 
         </div><!--  close account-left div-->
